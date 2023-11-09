@@ -1,0 +1,2 @@
+pyboy~=1.6.5
+gymnasium~=0.29.1
